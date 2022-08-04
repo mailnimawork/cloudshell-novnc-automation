@@ -31,7 +31,7 @@ echo "You entered: $input_token"
 
 #updating system
 sudo apt update -y
-sudo apt upgrade -y
+
 #installing screen
 sudo apt-get install screen -y
 
